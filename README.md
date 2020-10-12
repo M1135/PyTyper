@@ -43,6 +43,8 @@ pip install pynput keyboard (for Windows) or pip3 install pynput keyboard (for M
 python autoTyper.py (For Windows, remember to run as administrator)
 
 sudo python3 autoTyper.py (For Mac and Linux)
+
+Press F9 when you're ready
 ```
 
 **Step 5. Enjoy**
