@@ -27,6 +27,8 @@ Or just simply click the "Download ZIP" button to make your life easier
 
 ```
 Type anything you want this script to simulate the typing in content.txt
+
+You only need to do this once
 ```
 
 **Step 3. Install required modules.**
