@@ -14,7 +14,7 @@ A working brain
 
 ## Usage
 
-**Step 1. Clone/ download this repository to local.**
+**Step 1. Clone or download this repository to local.**
 
 ```
 git clone https://github.com/realrealfrosty/autoTyper.git
