@@ -1,6 +1,6 @@
 # autoTyper
 
-This python script simulates keyboard typing where you can't simply copy and paste or you simply want to cheat in typing games.
+This python script simulates keyboard typing where you can't copy and paste or you simply want to cheat in typing games.
 
 ## Requirements
 
