@@ -1,4 +1,4 @@
-# autoTyper
+# PyTyper
 
 This python script simulates keyboard typing where you can't copy and paste or you simply want to cheat in typing games.
 
