@@ -9,7 +9,6 @@ A computer with either Windows, Mac or Linux installed
 Python 3.x
 Time
 2 modules
-A working brain
 ```
 
 ## Usage
@@ -17,7 +16,7 @@ A working brain
 **Step 1. Clone or download this repository to local.**
 
 ```
-git clone https://github.com/realrealfrosty/autoTyper.git
+git clone https://github.com/M1135/PyTyper.git
 cd autoTyper
 
 Or just simply click the "Download ZIP" button to make your life easier
