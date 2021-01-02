@@ -49,5 +49,5 @@ Press F9 when you're ready
 **Step 5. Enjoy**
 
 ```
-Voila
+The mitochondria is the powerhouse of the cell.
 ```
